@@ -1,0 +1,25 @@
+﻿README.txt for BIKE_RENTAL_CAPSTONE_PROJECT_1
+BIKE_RENTAL_CAPSTONE_PROJECT_1
+1. ASK
+* CASE STUDY FOLDER 
+- Case study for the project
+
+
+2. PREPARE
+* RAW_DATA
+- The raw we will use for the project
+* FOLDER_SOURCE_OF_RAW_DATA
+- The original zip folder I got directly from the internet
+
+
+3. ANALYSE
+* CLEANED_DATA
+- The cleaned bike data
+
+
+4. SHARE
+* TABLEAU_DATA_VISUALISATION
+- Image of the Tableau visualisation (optional: for someone who does not have Tableau)
+- The actual Tableau visualisation data
+* GOOGLE_DOC_FOR_ANALYSIS_PHASE
+- Google Docs document documenting the sequence of the project
